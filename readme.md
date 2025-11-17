@@ -1,4 +1,4 @@
-📊 **GitHub User Activity**
+## 📊 **GitHub User Activity**
 
 Script em Python para monitorar e processar a atividade de usuários no GitHub. O programa consome a API pública do GitHub para buscar eventos e os formata em uma lista legível, com lógica especial para `PushEvents` que conta o número exato de commits enviados.
 
